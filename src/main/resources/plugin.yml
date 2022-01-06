@@ -1,0 +1,4 @@
+name: EXM.homework.1.1.plugin
+version: '${version}'
+main: com.joo31775.exm.homework.EXM.homework
+api-version: 1.18
